@@ -101,6 +101,8 @@ main{
     width:20%;
     height: 20%;
     border-radius: 30px;
+
+    border-bottom: 5px solid rgb(211, 202, 202);
 }
 
 /*Footer*/
